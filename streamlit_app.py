@@ -23,7 +23,7 @@ st.set_page_config(
 )
 
 # Título principal
-st.title("Análise dos valores do PROGEFE em 2024")
+st.title("Análise dos valores do PROGEFE em 2025")
 st.markdown("---")
 
 # Seção 1: Apresentação
@@ -75,4 +75,4 @@ st.markdown("""
 
 # Rodapé
 st.markdown("---")
-st.markdown("Desenvolvido por Mirella Carla Mendes Christ - 2024")
+st.markdown("Desenvolvido por Mirella Carla Mendes Christ - 2025")
